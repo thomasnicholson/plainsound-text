@@ -18873,7 +18873,6 @@ value = Regular;
 }
 );
 name = Regular;
-widthClass = SemiCondensed;
 }
 );
 kerning = {
