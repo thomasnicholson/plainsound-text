@@ -3431,7 +3431,7 @@ unicode = 016E;
 {
 color = 10;
 glyphname = V;
-lastChange = "2025-02-17 08:45:43 +0000";
+lastChange = "2025-02-18 12:37:32 +0000";
 layers = (
 {
 anchors = (
@@ -11658,7 +11658,7 @@ unicode = 005C;
 },
 {
 glyphname = asterisk_hyphen.liga;
-lastChange = "2025-02-17 08:49:46 +0000";
+lastChange = "2025-02-18 12:38:11 +0000";
 layers = (
 {
 components = (
@@ -11674,7 +11674,7 @@ width = 500;
 },
 {
 glyphname = asterisk_asterisk.liga;
-lastChange = "2025-02-17 08:49:46 +0000";
+lastChange = "2025-02-18 12:38:11 +0000";
 layers = (
 {
 components = (
@@ -11690,7 +11690,7 @@ width = 500;
 },
 {
 glyphname = asterisk_plus_hyphen.liga;
-lastChange = "2025-02-17 08:49:46 +0000";
+lastChange = "2025-02-18 12:38:11 +0000";
 layers = (
 {
 components = (
@@ -15066,7 +15066,7 @@ unicode = 00B0;
 },
 {
 glyphname = minute;
-lastChange = "2025-02-17 08:49:46 +0000";
+lastChange = "2025-02-18 12:36:34 +0000";
 layers = (
 {
 components = (
@@ -18879,6 +18879,7 @@ kerning = {
 m01 = {
 "@MMK_L_A" = {
 "@MMK_R_O" = -20;
+"@MMK_R_V" = -45;
 };
 "@MMK_L_E" = {
 "@MMK_R_o" = -10;
