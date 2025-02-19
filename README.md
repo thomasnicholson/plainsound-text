@@ -1,5 +1,5 @@
 # Plainsound Text
-A Univers-inspired text font with HEJI accidentals.
+A somewhat condensed, Univers-inspired sans serif with integrated Helmholtz-Ellis Just Intonation accidentals.
 
 Currently in development.
 
