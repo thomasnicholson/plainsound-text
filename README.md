@@ -10,7 +10,7 @@ Currently in development.
 Plainsound Text is released under the SIL Open Font License. See LICENSE for more information.
 
 ## Typing accidentals
-Accidentals are typed as strings beginning with the an asterisk followed by a sematic shorthard 
+Accidentals are typed as strings beginning with the an asterisk followed by sematic shorthands
 relating to otonality vs. utonality (“o” vs. “u”) and prime number identities. These strings 
 automatically transform as ligatures into the desired accidental. 
 
