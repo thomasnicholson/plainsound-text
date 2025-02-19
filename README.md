@@ -1,5 +1,6 @@
 # Plainsound Text
-A somewhat condensed, Univers-inspired sans serif with integrated Helmholtz-Ellis Just Intonation accidentals.
+A somewhat condensed, Univers-inspired sans serif with integrated Helmholtz-Ellis Just Intonation 
+accidentals.
 
 Currently in development.
 
@@ -9,6 +10,11 @@ Currently in development.
 Plainsound Text is released under the SIL Open Font License. See LICENSE for more information.
 
 ## Typing accidentals
+Accidentals are typed as strings beginning with the an asterisk followed by a sematic shorthard 
+relating to otonality vs. utonality (“o” vs. “u”) and prime number identities. These strings 
+automatically transform as ligatures into the desired accidental. 
+
+
 | Accidental description                               | Unicode | Type this |
 |------------------------------------------------------|---------|-----------|
 | Flat                                                 | U+E260  | *f        |
