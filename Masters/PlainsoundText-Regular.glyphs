@@ -165,7 +165,7 @@ glyphs = (
 {
 color = 10;
 glyphname = A;
-lastChange = "2025-02-17 08:45:43 +0000";
+lastChange = "2025-02-19 13:32:07 +0000";
 layers = (
 {
 anchors = (
@@ -1769,7 +1769,7 @@ unicode = 0136;
 {
 color = 10;
 glyphname = L;
-lastChange = "2025-02-17 08:45:43 +0000";
+lastChange = "2025-02-19 13:32:30 +0000";
 layers = (
 {
 anchors = (
@@ -19033,6 +19033,7 @@ kerning = {
 m01 = {
 "@MMK_L_A" = {
 "@MMK_R_O" = -20;
+"@MMK_R_T" = -40;
 "@MMK_R_V" = -45;
 };
 "@MMK_L_E" = {
@@ -19059,6 +19060,7 @@ igrave = 30;
 };
 "@MMK_L_L" = {
 "@MMK_R_O" = -30;
+"@MMK_R_T" = -40;
 "@MMK_R_U" = -25;
 };
 "@MMK_L_O" = {

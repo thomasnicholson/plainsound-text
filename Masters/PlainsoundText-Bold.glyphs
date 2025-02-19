@@ -1,5 +1,8 @@
 {
 .appVersion = "122";
+DisplayStrings = (
+INTONTATION
+);
 copyright = "Copyright © 2025 by Thomas Nicholson";
 customParameters = (
 {
@@ -171,7 +174,7 @@ glyphs = (
 {
 color = 10;
 glyphname = A;
-lastChange = "2025-02-18 10:33:15 +0000";
+lastChange = "2025-02-19 13:39:32 +0000";
 layers = (
 {
 anchors = (
@@ -1062,9 +1065,20 @@ unicode = 011A;
 },
 {
 glyphname = Ecircumflex;
-lastChange = "2025-02-16 20:43:08 +0000";
+lastChange = "2025-02-19 13:33:45 +0000";
 layers = (
 {
+background = {
+components = (
+{
+name = E;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 9, 222}";
+}
+);
+};
 components = (
 {
 name = E;
@@ -3146,7 +3160,7 @@ unicode = 0218;
 {
 color = 10;
 glyphname = T;
-lastChange = "2025-02-18 10:33:15 +0000";
+lastChange = "2025-02-19 13:39:29 +0000";
 layers = (
 {
 anchors = (
@@ -19111,6 +19125,7 @@ kerning = {
 m01 = {
 "@MMK_L_A" = {
 "@MMK_R_O" = -20;
+"@MMK_R_T" = -50;
 "@MMK_R_V" = -45;
 };
 "@MMK_L_E" = {
@@ -19137,6 +19152,7 @@ igrave = 30;
 };
 "@MMK_L_L" = {
 "@MMK_R_O" = -30;
+"@MMK_R_T" = -40;
 "@MMK_R_U" = -25;
 };
 "@MMK_L_O" = {
@@ -19166,7 +19182,7 @@ icircumflex = 30;
 idieresis = 40;
 };
 "@MMK_L_T" = {
-"@MMK_R_A" = -40;
+"@MMK_R_A" = -50;
 "@MMK_R_O" = -15;
 "@MMK_R_T" = 0;
 "@MMK_R_comma" = -100;
