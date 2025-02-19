@@ -3,7 +3,7 @@
 A somewhat condensed, Univers-inspired sans serif with integrated Helmholtz-Ellis Just Intonation (HEJI)
 accidentals. See section “Typing accidentals” for information on HEJI usage.
 
-Currently in development.
+Currently in development. Beta versions of regular and bold weights with their italics available. 
 
 ![Specimen](Testing/Specimen.png)
 
